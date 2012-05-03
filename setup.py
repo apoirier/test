@@ -1,13 +1,4 @@
-#--
-# Copyright (c) 2008-2012 Net-ng.
-# All rights reserved.
-#
-# This software is licensed under the BSD License, as described in
-# the file LICENSE.txt, which you should have received as part of
-# this distribution.
-#--
-
-VERSION = '0.4.1'
+#VERSION = '0.4.1'
 
 import sys, os, textwrap
 from setuptools import setup, find_packages
