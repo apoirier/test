@@ -1,5 +1,3 @@
-#!/bin/env python
-
 #--
 # Copyright (c) 2008-2012 Net-ng.
 # All rights reserved.
